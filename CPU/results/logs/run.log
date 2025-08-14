@@ -1,0 +1,13 @@
+[2025-08-14 10:38:43] Starting TrinCore master run
+[2025-08-14 10:38:43] Phase 1: Running CPU simulations
+[2025-08-14 10:38:43] Running Binary CPU simulation...
+[2025-08-14 10:38:43] Binary CPU completed: 36 cycles in 0.000023s
+[2025-08-14 10:38:43] Running Ternary CPU simulation...
+[2025-08-14 10:38:43] Ternary CPU completed: 10000 cycles in 0.015818s
+[2025-08-14 10:38:43] Phase 2: Generating comparison plots
+[2025-08-14 10:38:44] Saved comparison plot -> results/comprehensive_comparison.png
+[2025-08-14 10:38:45] Phase 3: Creating markdown report
+[2025-08-14 10:38:45] Wrote report -> results/comparison.md
+[2025-08-14 10:38:45] Phase 4: Displaying results
+[2025-08-14 10:38:45] Master run completed successfully.
+[2025-08-14 10:38:45] Graphical windows may remain open - close them to complete.
